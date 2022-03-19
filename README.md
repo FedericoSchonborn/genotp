@@ -1,10 +1,10 @@
-# :timer_clock: GOTP
+# :timer_clock: GenOTP
 
 Generate TOTP codes from standalone TOTP secrets.
 
 ## Usage
 
 ```sh
-$ gotp TOTPSECRET123456
+$ genotp TOTPSECRET123456
 5416348
 ```
